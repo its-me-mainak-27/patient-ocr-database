@@ -1,0 +1,15 @@
+{
+    "Patient Details": {
+        "Name": "John Doe",
+        "DOB": "01/01/1990"
+    },
+    "Treatment Details": {
+        "Injection": "Yes",
+        "Exercise Therapy": "No"
+    },
+    "Difficulty Ratings": {},
+    "Patient Changes": {},
+    "Pain Symptoms": {
+        "Pain Level": "7"
+    }
+}
